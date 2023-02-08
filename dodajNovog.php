@@ -11,7 +11,7 @@
 </head>
 
 <body>
-
+    <a href="index.php"><button class="btn btn-primary" id="pocetna-btn">Početna</button></a>
     <form method="POST" id="forma-novi-pacijent">
         <div class="mb-3">
             <label class="form-label">Ime pacijenta: </label>
@@ -27,11 +27,11 @@
         </div>
         <div class="mb-3">
             <label class="form-label">Terapija: </label>
-            <input type="number" class="form-control text-center" name="terapija">
+            <input type="text" class="form-control text-center" name="terapija">
         </div>
         <div class="mb-3">
             <label class="form-label">Godine: </label>
-            <input type="text" class="form-control text-center" name="godine">
+            <input type="number" class="form-control text-center" name="godine">
         </div>
         <div class="mb-3">
             <label class="form-label">Lekar: </label>
