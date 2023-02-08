@@ -1,0 +1,46 @@
+#naslov {
+    margin-top: 30px;
+}
+
+#div-tbl-pocetna {
+    margin-top: 25px;
+    width: 80%;
+    margin-left: 200px;
+}
+
+
+#id-col {
+    width: 20px;
+}
+
+#imep-col {
+    width: 50px;
+}
+
+#prezimep-col {
+    width: 50px;
+}
+
+#dijagnoza-col {
+    width: 70px;
+}
+
+#terapija-col {
+    width: 30px;
+}
+
+#godine-col {
+    width: 30px;
+}
+
+#imel-col {
+    width: 50px;
+}
+
+#prezimel-col {
+    width: 50px;
+}
+
+#izmena-brisanje {
+    width: 50px;
+}
