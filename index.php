@@ -11,7 +11,7 @@
 </head>
 <body>
 <h1 id="naslov" class="text-primary text-center">Pacijenti i lekari</h1>
-
+<a href="dodajNovog.php"><button type="button" class="btn btn-primary" id="btn_novi_pacijent">Forma za novog pacijenta</button></a>
 <div id="div-tbl-pocetna">
     <table class="table table-light table-striped table-hover table-bordered">
         <thead class="text-center">
