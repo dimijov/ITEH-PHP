@@ -1,6 +1,7 @@
 $(function () {
     obrisi();
     izmena();
+    $('#pacijenti-table').DataTable();
 });
 
 

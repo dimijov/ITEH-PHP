@@ -84,3 +84,21 @@ body{
     margin-bottom: 50px;
     text-align: center;
 }
+
+#btn_pretraga_sort {
+    margin-top: 25px;
+    height: 50px;
+    width: 250px;
+    margin-left: 40%;
+}
+
+#sort-div {
+    margin-top: 2%;
+    margin-left: 18%;
+    width: 60%;
+}
+
+#sort-naslov {
+    margin-left: 40%;
+    margin-top: 2%;
+}

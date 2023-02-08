@@ -63,6 +63,8 @@
         <tfoot>
         </tfoot>
         </table>
+
+        <a href="pretragasort.php"><button type="button" class="btn btn-success" id="btn_pretraga_sort">Pretrazi / Sortiraj</button></a>
     </div>
 
 
